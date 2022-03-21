@@ -7,7 +7,7 @@ import {
   DiJavascript,
   DiJqueryLogo,
   DiNodejsSmall,
-  DiMongodb,
+  DiMongodb
 } from "react-icons/di";
 import { CgFigma } from "react-icons/cg";
 import {
