@@ -18,7 +18,7 @@ const Hero = () => (
             wrapper="b"
             steps={[
               'Software Engineer',
-              1000,
+              2000,
               'Front-End',
               1000,
               'Back-End',
